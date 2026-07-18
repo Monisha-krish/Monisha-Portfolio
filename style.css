@@ -200,6 +200,10 @@ nav ul li a:hover::after {
     padding: 30px 0;
 }
 
+#achievements {
+    padding: 30px 0;
+}
+
 .work-list {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
