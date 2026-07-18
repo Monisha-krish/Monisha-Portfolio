@@ -233,6 +233,10 @@ nav ul li a:hover::after {
     display: block;
     transition: transform .5s;
 }
+#achievements .work img {
+    object-fit: contain;
+    background: #111;
+}
 
 .layer {
     width: 100%;
